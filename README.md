@@ -27,7 +27,7 @@
   <div>
    <a href="https://www.linkedin.com/in/vinicius01cs/" target="_blank"><img align="center" alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
    <a href="https://twitter.com/vinicius01cs" target="_blank"><img align="center" alt="twitter" height="27" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" target="_blank"></a>
-   <a href="vinicius_cs_01@hotmail.com" target="_blank"><img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+   <a href="mailto:vinicius_cs_01@hotmail.com" target="_blank"><img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    
    ![Snake animation](https://github.com/vinicius01cs/vinicius01cs/blob/output/github-contribution-grid-snake.svg)
   </div>
