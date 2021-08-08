@@ -2,7 +2,7 @@
 
 ## <img alignment="bottom" src="https://media.giphy.com/media/Bb9PJ6oiXKTJsjoa2v/giphy.gif" width="50" height="50"> About me
 
-💼 I work as a software test analyst
+💼 I work as a test analyst
 
 👨‍💻 I'm a computer engineering student
 
