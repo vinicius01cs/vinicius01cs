@@ -11,7 +11,8 @@
  <div>
   <a href="https://github.com/vinicius01cs">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&theme=chartreuse-dark"/>
+   
 </div>
  
  ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="30" width="30"> Languages
@@ -24,11 +25,9 @@
  ## <img src="https://media.giphy.com/media/EOIQArrlGT8SeIvYma/giphy.gif" width="20" height="30"> Where you can find me
  
   <div>
-    <a href="https://gitlab.com/vinicius01cs" target="_blank"><img align="center" alt="gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/gitlab/gitlab-original.svg" target="_blank"></a>
    <a href="https://www.linkedin.com/in/vinicius01cs/" target="_blank"><img align="center" alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-    </a>
-   <a href="https://twitter.com/vinicius01cs" target="_blank"><img align="center" alt="twitter" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" target="_blank"></a>
-    </a>
+   <a href="https://twitter.com/vinicius01cs" target="_blank"><img align="center" alt="twitter" height="27" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" target="_blank"></a>
+   <a href="vinicius_cs_01@hotmail.com" target="_blank"><img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    
    ![Snake animation](https://github.com/vinicius01cs/vinicius01cs/blob/output/github-contribution-grid-snake.svg)
   </div>
