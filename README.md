@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/vinicius01cs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&layout=compact&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&theme=chartreuse-dark"/>
    
 </div>
  
