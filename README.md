@@ -10,8 +10,8 @@
 
  <div>
   <a href="https://github.com/vinicius01cs">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&theme=chartreuse-dark"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&theme=chartreuse-dark"/>
    
 </div>
  
