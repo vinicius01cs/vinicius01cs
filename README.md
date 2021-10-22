@@ -4,7 +4,7 @@
 
 💼 I work as a test analyst
 
-👨‍💻 I'm a computer engineering student
+👨‍💻 Computer engineering student
 
 📚 Learning Python and C++ !
 
