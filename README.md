@@ -6,7 +6,7 @@
 
 👨‍💻 Computer engineering student
 
-📚 Learning Flutter !
+📚 Learning C# !
 
 <a href="https://github.com/vinicius01cs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -17,8 +17,6 @@
 
  <div style="display: inline_block"><br>
   <img align="center" alt="java"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="cpp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  </div>
  
