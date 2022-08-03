@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50" height="40"> Hello World ! I'm Vinicius Campos ! 
+# Hello World ! I'm Vinicius Campos ! 
 
-## <img alignment="bottom" src="https://media.giphy.com/media/Bb9PJ6oiXKTJsjoa2v/giphy.gif" width="50" height="50"> About me
+## About me
 
 💼 I work as a test analyst
 
