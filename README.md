@@ -9,8 +9,8 @@
 📚 Estudando C# | JavaScript
 
 <a href="https://github.com/vinicius01cs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&langs_count=7&theme=great-gatsby"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&layout=compact&langs_count=7&theme=merko"/>
   
  
  ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="30" width="30"> Tecnologias
