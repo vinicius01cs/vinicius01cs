@@ -1,34 +1,23 @@
-# Olá Mundo ! Eu sou o Vinicius Campos ! 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-## Sobre mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD+!+My+name+is+Vinicius+Campos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-💼 Trabalho como QA
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicius01cs&bg_color=0d1117&color=008000&line=008000&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-👨‍💻 Estudante de Engenharia de Computação
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117" alt="Vinicius Campos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
+</div>
 
-📚 Estudando C# | JavaScript
-
-<a href="https://github.com/vinicius01cs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius01cs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius01cs&layout=compact&langs_count=7&theme=merko"/>
-  
+## Main skills:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
  
- ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="30" width="30"> Tecnologias
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="csharp"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="js"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="python"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="java"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
- </div>
- 
- ## <img src="https://media.giphy.com/media/EOIQArrlGT8SeIvYma/giphy.gif" width="20" height="30"> Aonde você pode me encontrar
+ ## <img src="https://media.giphy.com/media/EOIQArrlGT8SeIvYma/giphy.gif" width="20" height="30"> Where you can find me:
  
   <div>
    <a href="https://www.linkedin.com/in/vinicius01cs/" target="_blank"><img align="center" alt="linkedin" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
    <a href="mailto:vinicius_cs_01@hotmail.com" target="_blank"><img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-   
-   ![Snake animation](https://github.com/vinicius01cs/vinicius01cs/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
  
